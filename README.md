@@ -1,6 +1,11 @@
 https://www.kaggle.com/datasets/ruthgn/wine-quality-data-set-red-white-wine
+
 used this data set^ 
+
 added noise
+
 used KNN to fill in gaps (supervised)
+
 removed the rows missing quality because they are target value
+
 used K clustor to make some graphs (unsupervised)
